@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~ /**
+  ~  @Copyright	2018 Integra Micro Software Services (IMSS) . All rights reserved.
+  ~  @author 	Sourav Kumar Verma
+  ~  @email		sourav.verma@integramicro.com
+  ~  @version	1.0
+  ~  Created on 14/9/18 1:04 PM.
+  ~  */
+  ~
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:padding="5dp"
+    tools:context=".day3.AlertActivity">
+
+
+    <Button
+        android:id="@+id/id_dialog_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Dialog"/>
+
+    <Button
+        android:id="@+id/id_single_choice_dialog_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Single Choice Dialog"/>
+
+    <Button
+        android:id="@+id/id_multi_choice_dialog_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Multi Choice Dialog"/>
+
+</LinearLayout>

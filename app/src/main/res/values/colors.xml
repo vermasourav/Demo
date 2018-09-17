@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~ /**
+  ~  @Copyright	2018 Integra Micro Software Services (IMSS) . All rights reserved.
+  ~  @author 	Sourav Kumar Verma
+  ~  @email		sourav.verma@integramicro.com
+  ~  @version	1.0
+  ~  Created on 14/9/18 1:04 PM.
+  ~  */
+  ~
+  -->
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

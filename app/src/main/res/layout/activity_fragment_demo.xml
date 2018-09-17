@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~ /**
+  ~  @Copyright	2018 Integra Micro Software Services (IMSS) . All rights reserved.
+  ~  @author 	Sourav Kumar Verma
+  ~  @email		sourav.verma@integramicro.com
+  ~  @version	1.0
+  ~  Created on 14/9/18 1:04 PM.
+  ~  */
+  ~
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".day1.FragmentDemoActivity">
+
+    <fragment
+        android:name="com.verma.mobile.android.demo.day1.fragment.VersionListFragment"
+        android:layout_height="match_parent"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/id_fragment_1"/>
+    <fragment
+        android:name="com.verma.mobile.android.demo.day1.fragment.TextFragment"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:id="@+id/id_fragment_2"/>
+
+</LinearLayout>

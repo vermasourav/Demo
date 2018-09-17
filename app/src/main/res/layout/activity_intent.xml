@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~ /**
+  ~  @Copyright	2018 Integra Micro Software Services (IMSS) . All rights reserved.
+  ~  @author 	Sourav Kumar Verma
+  ~  @email		sourav.verma@integramicro.com
+  ~  @version	1.0
+  ~  Created on 14/9/18 1:04 PM.
+  ~  */
+  ~
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".day1.IntentActivity">
+
+    <Button
+        android:id="@+id/id_button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+        android:text="Open URL" />
+
+    <Button
+        android:id="@+id/id_button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+
+        android:text="Call" />
+
+    <Button
+        android:id="@+id/id_button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+        android:text="Dial" />
+
+    <Button
+        android:id="@+id/id_button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+        android:text="Map with Location" />
+
+    <Button
+        android:id="@+id/id_button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+        android:text="Map with Name" />
+
+    <Button
+        android:id="@+id/id_button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+        android:text="Capture Image" />
+
+    <Button
+        android:id="@+id/id_button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+        android:text="Contact" />
+
+    <Button
+        android:id="@+id/id_button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp"
+        android:onClick="onButtonClick"
+        android:text="Edit Contact" />
+
+
+</LinearLayout>

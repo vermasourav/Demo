@@ -1,0 +1,16 @@
+<!--
+  ~
+  ~ /**
+  ~  @Copyright	2018 Integra Micro Software Services (IMSS) . All rights reserved.
+  ~  @author 	Sourav Kumar Verma
+  ~  @email		sourav.verma@integramicro.com
+  ~  @version	1.0
+  ~  Created on 14/9/18 1:04 PM.
+  ~  */
+  ~
+  -->
+
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_activity_service">ServiceActivity</string>
+</resources>
