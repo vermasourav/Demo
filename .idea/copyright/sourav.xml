@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="myName" value="sourav" />
+    <option name="notice" value="#set (&amp;#36;USER = &quot;Sourav Kumar Verma&quot;)&#10;#set (&amp;#36;COMPANY = &quot;Integra Micro Software Services (IMSS)&quot;)&#10;#set (&amp;#36;VERSION = &quot;1.0&quot;)&#10;#set (&amp;#36;EMAIL = &quot;sourav.verma@integramicro.com&quot;)&#10;#set (&amp;#36;DATE = &amp;#36;{today})&#10;&#10;/**&#10; @Copyright&#9;&amp;#36;{today.year} &amp;#36;{COMPANY} . All rights reserved.&#10; @author &#9;&amp;#36;{USER}&#10; @email&#9;&#9;&amp;#36;{EMAIL}&#10; @version&#9;&amp;#36;{VERSION}&#10; Created on &amp;#36;{DATE}.&#10; */&#10; " />
+  </copyright>
+</component>
