@@ -36,10 +36,6 @@ public class IntentActivity extends AppCompatActivity {
                 intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.msrit.edu"));
                 startActivity(intent);
                 break;
-            case R.id.id_button2:
-                intent = new Intent(Intent.ACTION_CALL, Uri.parse("tel:+918095392667"));
-                startActivity(intent);
-                break;
             case R.id.id_button3:
                 intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:+918095392667"));
                 startActivity(intent);
