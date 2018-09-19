@@ -31,15 +31,6 @@
         android:onClick="onButtonClick"
         android:text="Open URL" />
 
-    <Button
-        android:id="@+id/id_button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="2dp"
-        android:layout_marginTop="2dp"
-        android:onClick="onButtonClick"
-
-        android:text="Call" />
 
     <Button
         android:id="@+id/id_button3"
