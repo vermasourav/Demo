@@ -13,4 +13,5 @@
 <resources>
     <string name="app_name">Demo</string>
     <string name="title_activity_service">ServiceActivity</string>
+    <string name="hint_current_time">Display Current Time</string>
 </resources>
