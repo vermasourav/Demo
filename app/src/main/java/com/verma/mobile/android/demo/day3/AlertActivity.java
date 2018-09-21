@@ -85,6 +85,8 @@ public class AlertActivity extends AppCompatActivity {
 
         AlertDialog alertDialog = alertDialogBuilder.create();
         alertDialog.show();
+     /*   Log.i("Alert","in on openAlertDialog method iwhr log");
+        System.out.println("in on openAlertDialog method");*/
 
     }
 

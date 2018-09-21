@@ -69,6 +69,7 @@ public class StudentsProvider extends ContentProvider {
 
     private static class DatabaseHelper extends SQLiteOpenHelper {
         DatabaseHelper(Context context){
+
             super(context, DATABASE_NAME, null, DATABASE_VERSION);
         }
 
