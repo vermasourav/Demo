@@ -1,5 +1,3 @@
-
-
 package com.verma.mobile.android.demo.day3;
 
 import android.app.AlertDialog;
